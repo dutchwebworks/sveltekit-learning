@@ -1,4 +1,5 @@
 <script>
+    import "$lib/css/app.css"
     import "$lib/css/style.css"
     import Header from "$components/TheHeader.svelte";
     import Footer from "$components/TheFooter.svelte";
