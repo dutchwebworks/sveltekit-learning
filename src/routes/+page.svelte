@@ -7,7 +7,7 @@
 
     <p>Visit <a href="https://kit.svelte.dev" class="hover:text-primary">kit.svelte.dev</a> to read the documentation</p>
 
-    <img src="webbrowsers.webp" alt="Web browser logos" />
+    <img src="/img/webbrowsers.webp" width="300" height="195" alt="Web browser logos" />
 </main>
 
 <style>
