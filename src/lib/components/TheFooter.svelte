@@ -1,7 +1,11 @@
 <footer>
-    <span>By Dennis Burger, April 2023</span>
+    <span>By Dutchwebworks, April 2023</span>
     
-    <a href="https://github.com/dutchwebworks/sveltekit-learning" target="_blank">View on Github</a>
+    <a href="https://github.com/dutchwebworks/sveltekit-learning" target="_blank">
+        View on Github
+
+        <img src="/img/github-logo.svg" alt="Github">
+    </a>
 </footer>
 
 <style>
@@ -12,5 +16,11 @@ footer {
     padding-block-start: 10px;
     margin-block-start: 20px;
     font-size: .8rem;
+}
+
+footer > a {
+    display: flex;
+    gap: 5px;
+    align-items: center;
 }
 </style>
