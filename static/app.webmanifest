@@ -2,12 +2,12 @@
   "name": "SvelteKit Learning",
   "short_name": "SvelteKit",
   "description": "Learning about SvelteKit",
-  "theme_color": "orange",
+  "theme_color": "#ff4000",
   "background_color": "#ffffff",
   "display": "standalone",
   "scope": ".",
-  "start_url": "/?utm_source=pwa",
-  "id": "/?utm_source=pwa",
+  "start_url": "/?source=pwa",
+  "id": "/?source=pwa",
   "dir": "ltr",
   "lang": "nl-NL",
   "orientation": "portrait",
@@ -55,7 +55,7 @@
       "purpose": "maskable any"
     },
     {
-      "src": "/img/icon-512x512.png",
+      "src": "/img/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
